@@ -1,0 +1,16 @@
+{
+  "name": "submission1-timestampmicroservice",
+  "version": "1.0.0",
+  "description": "Project1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "start-dev": "npx nodemon src/index.js"
+  },
+  "author": "Anugrah Damaris Hakim",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
